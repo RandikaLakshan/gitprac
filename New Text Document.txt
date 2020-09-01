@@ -4,4 +4,10 @@ uiuuio
 =======
 a
 trryt
+<<<<<<< HEAD
 >>>>>>> 841b1acb1145591d6c11d05752becbaf42686da0
+=======
+
+uikuo
+ytuyi
+>>>>>>> 25e8ea6189915912435f44d9c05d7020e00b19df
