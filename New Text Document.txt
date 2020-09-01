@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 aetertet
 uiuuio
+=======
+a
+trryt
+>>>>>>> 841b1acb1145591d6c11d05752becbaf42686da0
